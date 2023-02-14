@@ -1,0 +1,10 @@
+.bg{
+  width: 50px;
+  background-image: url(./../../../assets/Seguridad_Informática.jpg);
+  background-position: center center;
+}
+
+body{
+  background: #ffe259;
+  background: linear-gradient(to right, #ffa751, #ffe259);
+}
